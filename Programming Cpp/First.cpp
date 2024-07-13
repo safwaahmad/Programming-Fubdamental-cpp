@@ -4,6 +4,6 @@ using namespace std ; // stored in ram in std
 //----function----
 int main()            //main point
 {
-cout<<("Hello World!!!"); //output
+cout<<("Hello World!!!\n"); //output
 cout<<("\t This is my First programme");
 }
