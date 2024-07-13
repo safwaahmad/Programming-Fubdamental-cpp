@@ -5,5 +5,5 @@ using namespace std ; // stored in ram in std
 int main()            //main point
 {
 cout<<("Hello World!!!"); //output
-cout<<("/t This is my First programme");
+cout<<("\t This is my First programme");
 }
