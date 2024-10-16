@@ -22,7 +22,7 @@ int main(){
     cout<<not(1)<<endl;
 
     cout<<("------UNAIARY OPREATIONS------")<<endl;
-     int c=a++;// update -> kaam
+     int c=a++;// update -> kaam -> ppoosstt
      cout << "c = " << c << endl; //10 
      cout << "a = " << a << endl; //11 
      return 0; 
