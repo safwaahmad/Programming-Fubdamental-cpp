@@ -9,3 +9,15 @@ cout<<("Hello World!!!\n"); //output
 cout<<("Hello World!!!")<<endl; //endl is for new line
 cout<<("\t This is my First programme"); //(\n is for new line-\t is for tab)
 }
+//Boilerplate code
+
+// #include<iostream> //predefined directive
+
+// using namespace std; //a space in ram
+
+
+
+// int main (){
+
+// }
+//-----------------------------------------

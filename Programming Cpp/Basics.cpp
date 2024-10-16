@@ -1,15 +1,3 @@
-//Boilerplate code
-
-// #include<iostream> //predefined directive
-
-// using namespace std; //a space in ram
-
-
-
-// int main (){
-
-// }
-//-----------------------------------------
 #include<iostream>   
 using namespace std ; 
 int main()            
