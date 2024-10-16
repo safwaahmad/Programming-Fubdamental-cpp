@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 
-//variab;e --> container to store data
+//variable --> container to store data
 
 int main (){
 int a ; // a is variable
