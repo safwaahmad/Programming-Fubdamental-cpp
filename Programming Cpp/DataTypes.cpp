@@ -2,7 +2,7 @@
 using namespace std ; 
 int main()            
 {
-    int number = 32;
+    int number = 32;  //4 bytes  
     char character = 'a';
     float floatpoint = 3.456;
     double Double = 12345;
